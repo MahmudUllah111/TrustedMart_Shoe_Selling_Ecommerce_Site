@@ -15,7 +15,7 @@ Password: 12345678
 
 Website Link:
 
-http://localhost/TrustedMart/ehome.php"# Ecommerce_TrustedMart" 
+https://trustedmart.infinityfree.me/login.php
 
 
 For Xampp connection:
